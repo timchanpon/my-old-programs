@@ -1,5 +1,5 @@
 /*
-* This is written when I was in 11th grade around October 2017.
+* This was written when I was in 11th grade around October 2017.
 */
 
 #include<stdio.h>

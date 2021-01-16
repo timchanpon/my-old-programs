@@ -1,0 +1,10 @@
+[2019/06/07 6:01:24] A: Hi.
+[2019/06/07 6:01:30] A: I'm A.
+[2019/06/07 6:01:56] B: Hi.
+[2019/06/07 6:02:04] B: I'm B.
+[2019/06/07 6:03:31] A: Where are you from?
+[2019/06/07 6:04:01] B: I'm from Indonesia.
+[2019/06/07 6:04:05] B: What about you?
+[2019/06/07 6:18:51] A: I'm from Japan.
+‎[2019/06/07 7:10:34] A: ‎Have you ever been to Japan?
+[2019/06/07 8:10:25] B: No, I haven't.
