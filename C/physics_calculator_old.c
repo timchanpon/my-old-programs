@@ -1,7 +1,7 @@
 /*
-* This is the first program I wrote all by myself
-* when I was in 11th grade around July 2017.
-*/
+ * This is the first program I wrote all by myself
+ * when I was in 11th grade around July 2017.
+ */
 
 #include <stdio.h>
 #include <math.h>
